@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Japanese Culture - Home</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Japanese Culture</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="culture.html">Culture</a></li>
+                <li><a href="food.html">Food</a></li>
+                <li><a href="traditions.html">Traditions</a></li>
+                
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Introduction to Japanese Culture</h2>
+            <p>Japan has a rich and unique cultural history, combining traditional practices with modern innovations. In this website, you will explore different aspects of Japanese culture.</p>
+            <img src="images/japanese-culture.jpg" alt="Japanese Culture">
+        </section>
+    </main>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Japanese Culture</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Japanese Culture</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="culture.html">Culture</a></li>
+                <li><a href="food.html">Food</a></li>
+                <li><a href="traditions.html">Traditions</a></li>
+                
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Key Elements of Japanese Culture</h2>
+            <p>Japanese culture emphasizes respect, harmony, and a deep connection with nature. Traditional arts like tea ceremonies, ikebana (flower arranging), and calligraphy are still practiced today.</p>
+            <img src="images/tea-ceremony.jpg" alt="Japanese Tea Ceremony">
+        </section>
+    </main>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Japanese Food</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Japanese Food</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="culture.html">Culture</a></li>
+                <li><a href="food.html">Food</a></li>
+                <li><a href="traditions.html">Traditions</a></li>
+                
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Popular Japanese Dishes</h2>
+            <p>Japanese cuisine is known for its simplicity and beautiful presentation. Popular dishes include sushi, ramen, tempura, and bento boxes.</p>
+            <img src="images/sushi.jpg" alt="Sushi">
+        </section>
+    </main>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Japanese Traditions</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Japanese Traditions</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="culture.html">Culture</a></li>
+                <li><a href="food.html">Food</a></li>
+                <li><a href="traditions.html">Traditions</a></li>
+                
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Festivals and Ceremonies</h2>
+            <p>Japanese traditions are steeped in centuries of history. Important traditions include celebrating festivals like the Cherry Blossom Festival and ceremonies like weddings and New Year's rituals.</p>
+            <img src="images/cherry-blossoms.jpg" alt="Cherry Blossoms">
+        </section>
+    </main>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sitemap</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sitemap</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="culture.html">Culture</a></li>
+                <li><a href="food.html">Food</a></li>
+                <li><a href="traditions.html">Traditions</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Website Structure</h2>
+            <p>This website contains four main sections:</p>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="culture.html">Culture</a></li>
+                <li><a href="food.html">Food</a></li>
+                <li><a href="traditions.html">Traditions</a></li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
+/* Basic CSS for the Japanese Culture website */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #2c3e50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2em;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+main {
+    margin: 20px;
+}
+
+main h2 {
+    color: #333;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+ul {
+    margin-top: 10px;
+    font-size: 1.1em;
+}
+git add .
+git commit -m "Add Japanese Culture website"
+git push origin main
